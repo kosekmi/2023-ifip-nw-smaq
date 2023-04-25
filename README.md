@@ -11,7 +11,7 @@ Technical University of Munich
 
 ## Tools
 
-The following tools were developed for our paper:
+The following tools were developed or extended for our paper:
 
 1. quic-go: Extended with support for SMAQ
 * https://github.com/birneee/quic-go/releases/tag/v0.33.0-smaq
@@ -24,6 +24,9 @@ The following tools were developed for our paper:
 
 4. smaq-http-perf: Client and Server implementation for SMAQ HTTP/3 web performance measurements
 * https://github.com/birneee/http-perf-go/releases/tag/v0.1.0-smaq
+
+5. SATCOM Emulation Testbed: Extended with support for SMAQ
+* https://github.com/kosekmi/quic-opensand-emulation
 
 ---
 
