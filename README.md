@@ -11,9 +11,19 @@ Technical University of Munich
 
 ## Tools
 
-The following tools were developed for our paper
+The following tools were developed for our paper:
 
-tba
+1. quic-go: Extended with support for SMAQ
+* https://github.com/birneee/quic-go/releases/tag/v0.33.0-smaq
+
+2. smaq-pep: Performance Enhancing Proxy implementation for SMAQ
+* https://github.com/birneee/hquic-proxy-go/releases/tag/v0.5.0-smaq
+
+3. smaq-perf: Client and Server implementation for SMAQ performance measurements
+* https://github.com/birneee/qperf-go/releases/tag/v0.4.0-smaq
+
+4. smaq-http-perf: Client and Server implementation for SMAQ HTTP/3 web performance measurements
+* https://github.com/birneee/http-perf-go/releases/tag/v0.1.0-smaq
 
 ---
 
