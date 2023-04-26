@@ -25,9 +25,6 @@ The following tools were developed or extended for our paper:
 4. smaq-http-perf: Client and Server implementation for SMAQ HTTP/3 web performance measurements
 * https://github.com/birneee/http-perf-go/releases/tag/v0.1.0-smaq
 
-5. SATCOM Emulation Testbed: Extended with support for SMAQ
-* https://github.com/kosekmi/quic-opensand-emulation
-
 ---
 
 ## Contact
@@ -35,5 +32,5 @@ The following tools were developed or extended for our paper:
 Please feel welcome to contact the authors for further details.
 
 * Mike Kosek (kosek@in.tum.de) (corresponding author)
-* Benedikt Spies (spies@in.tum.de)
+* Benedikt Spies (spiesbe@in.tum.de)
 * Jörg Ott (ott@in.tum.de)
