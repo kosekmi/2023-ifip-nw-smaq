@@ -5,7 +5,9 @@ Technical University of Munich
 
 [IFIP Networking 2023](https://networking.ifip.org/2023/), June 12&ndash;15, 2023.
 
-[Paper &rarr;] tba
+[Paper Arxiv &rarr;] https://arxiv.org/abs/2307.08543
+
+[Paper IEEEXplore &rarr;] https://doi.org/10.23919/IFIPNetworking57963.2023.10186363
 
 ---
 
